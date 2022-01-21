@@ -1,4 +1,6 @@
-# user-dashboard
+# user-dashboard 
+
+this is a bad read me example
 
 ## Project setup
 ```
